@@ -1,6 +1,6 @@
 function firstWord(s) {
     if (s === '') {
-        return s; 
+        return "''"; 
     }
     let ch = '';
     for (let i = 0; i < s.length; i++) {
